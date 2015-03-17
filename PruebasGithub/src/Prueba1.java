@@ -4,5 +4,6 @@ public class Prueba1 {
 		System.out.println("HOLA");
 		System.out.println("HOLA");
 		System.out.println("HOLA");
+		System.out.println("AADIOS");
 	}
 }
